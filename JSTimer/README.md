@@ -73,7 +73,7 @@ There are also setters and getters for those options if they are wanted to be ad
 
 **in the HTML file :**
 
-```<span id="hours"></span> : <span id="mins"></span> : <span id="secs"></span><br><span id="double"></span>``````
+```<span id="hours"></span> : <span id="mins"></span> : <span id="secs"></span><br><span id="double"></span>```
 
 **in the JavaScript code :**
 
