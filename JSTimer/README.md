@@ -8,11 +8,11 @@ This Library can be used to do a certain functionality every certian milliSecond
 ## Usage
 To get the time we could use
 
-```var timer = Timer(function, milliSeconds[, options])```
+```var timer = JSTimer(function, milliSeconds[, options])```
 
 or
 
-```var timer = new Timer(function, milliseconds[, options])```
+```var timer = new JSTimer(function, milliseconds[, options])```
 
 **and to start :**
 
