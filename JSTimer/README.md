@@ -6,7 +6,7 @@ A JavaScript library for Timer
 This Library can be used to do a certain functionality every certian milliSeconds
 
 ## Usage
-To get the time we could use
+To get the timer we could use
 
 ```var timer = JSTimer(function, milliSeconds[, options])```
 
